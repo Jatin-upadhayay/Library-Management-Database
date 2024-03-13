@@ -1,1 +1,1 @@
-# Library-Management-Database
+This database helps run a library smoothly. It keeps track of books, borrowers, and branches. It fills in sample data using scripts. Stored procedures handle various tasks like checking who borrowed a book or how many books a library branch has. It's a useful tool for managing library resources and loans effectively.
